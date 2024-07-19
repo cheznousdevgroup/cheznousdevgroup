@@ -1,4 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+## Introduction
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Othniel Gnimassou</h1>
 <h3 align="center">🚀 Php Developer |~ Software developer⚙️ ~ Cyber security 🛡️ ~ Big data managment ~ CTF CHALLENGER 🧞 | Back-end junior |</h3>
   
