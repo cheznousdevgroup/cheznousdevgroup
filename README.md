@@ -36,7 +36,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlootunderscore&label=Profile%20views&color=0e75b6&style=flat" alt="xlootunderscore" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Extranet-ops<br><br>🌱 I’m currently learning Laravel, Nextjs, Flutter<br><br>👨‍💻 All of my projects are available at www.devothniel@gmail.com<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me gnimassouothniel@gmail.com<br><br>⚡ Fun fact Je mange du php au petit déj' et vous ?
+🔭 I’m currently working on Extranet-ops<br><br>🌱 I’m currently learning Laravel, Nextjs, Flutter<br><br>👨‍💻 All of my projects are available at www.devothniel.com<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me gnimassouothniel@gmail.com<br><br>⚡ Fun fact Je mange du php au petit déj' et vous ?
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cheznousdevgroup&icon=0&color=0)](https://visitcount.itsvg.in)
