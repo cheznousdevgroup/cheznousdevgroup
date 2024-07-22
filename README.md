@@ -23,13 +23,13 @@
 
 <div align=center>
   <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,vite,md,nodejs,express,php,lua,angular,react">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,js,ts,css,php">
   <h3>🧶Databases🧶</h3>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite">
   <h3>🏏Tools🏏</h3>
     <img src="https://skillicons.dev/icons?i=github,git,blender,vscode,visualstudio,arduino,cmake">
   <h3>🎡Will Learn🎡</h3>
-    <img src="https://skillicons.dev/icons?i=c,vue,java">
+    <img src="https://skillicons.dev/icons?i=c,vue,vite,md,nodejs,express,java,lua,angular,react">
 </div>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
